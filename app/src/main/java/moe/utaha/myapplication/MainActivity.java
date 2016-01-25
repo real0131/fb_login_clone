@@ -50,7 +50,7 @@ public class MainActivity extends AppCompatActivity {
             public void onClick(View v) {
                 AlertDialog dialog = alertdialog.create();
                 dialog.show();
-            }
+            }//se
         });
 
         btn_login.setOnClickListener(new View.OnClickListener() {
